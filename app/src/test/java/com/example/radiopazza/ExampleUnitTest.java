@@ -1,4 +1,4 @@
-package com.example.radio;
+package com.example.radiopazza;
 
 import org.junit.Test;
 
